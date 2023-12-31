@@ -21,7 +21,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           
 
-          <Col md={4} className="project-card">
+          {/*<Col md={4} className="project-card">
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
@@ -30,11 +30,11 @@ function Projects() {
               ghLink="https://github.com/gideonotieno/gideonotieno.github.io.git"
               demoLink="gideonotieno.github.io"
             />
-          </Col>
+          </Col>*/}
 
           
 
-          <Col md={4} className="project-card">
+          {/*<Col md={4} className="project-card">
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
@@ -57,7 +57,7 @@ function Projects() {
               ghLink="#"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col>
+        </Col>*/}
         </Row>
       </Container>
     </Container>
