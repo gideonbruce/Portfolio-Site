@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />I am good in classics like
               <i>
-                <b className="purple"> Kotlin, Java and Flutter </b>
+                <b className="purple"> Kotlin, Java and C++ </b>
               </i>
               <br />
               <br />
@@ -47,7 +47,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js, Next.js and Angular</b>
+                <b className="purple"> Flutter and Jetpack Compose</b>
               </i>
             </p>
           </Col>
