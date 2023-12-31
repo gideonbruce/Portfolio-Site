@@ -32,22 +32,22 @@ function Home2() {
                 <b className="purple">Android Apps and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Android Architecture concepts such as Activities, Services, Broadcast receivers Content providers, Intents, Android Runtime and much more.
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="purple">Flutter</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Kotlin and Flutter
+                  React Native
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> Flutter and Jetpack Compose</b>
+                <b className="purple"> Developing technical roadmaps to maintain high technical quality of Android Apps</b>
               </i>
             </p>
           </Col>
@@ -66,7 +66,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/gideonotieno"
+                  href="https://github.com/gideonbruce"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -76,7 +76,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/xtraordinnnaire"
+                  href="#"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
